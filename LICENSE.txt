@@ -1,0 +1,34 @@
+© 2025 Groupymes Comm World SL. Todos los derechos reservados.
+
+LICENCIA DE USO RESTRINGIDO
+
+Este software y la documentación que lo acompaña (en adelante, “el Software”) son propiedad exclusiva de Groupymes Comm World SL. El acceso y uso del Software se otorga bajo las siguientes condiciones:
+
+1. PROPIEDAD INTELECTUAL
+   - El Software está protegido por las leyes de propiedad intelectual y los tratados internacionales aplicables. 
+   - Groupymes Comm World SL se reserva todos los derechos de autor y propiedad industrial sobre el Software.
+
+2. USO AUTORIZADO
+   - Se permite el uso del Software exclusivamente a los usuarios o clientes autorizados por Groupymes Comm World SL.
+   - Queda prohibida su reproducción, modificación, traducción, descompilación o cualquier otro proceso de ingeniería inversa, total o parcial, sin autorización previa y por escrito.
+
+3. PROHIBICIÓN DE REDISTRIBUCIÓN
+   - No se permite la distribución, cesión o venta del Software, ni la puesta a disposición de terceros, sin la autorización expresa de Groupymes Comm World SL.
+
+4. RESPONSABILIDAD
+   - El Software se provee “tal cual”, sin garantías de ningún tipo, expresas o implícitas.
+   - Groupymes Comm World SL no se hace responsable de cualquier daño o perjuicio derivado del uso del Software.
+
+5. CONFIDENCIALIDAD
+   - El usuario se compromete a mantener la confidencialidad del Software y cualquier información relacionada.
+
+6. VIGENCIA
+   - Esta licencia entrará en vigor en la fecha de publicación del Software y permanecerá vigente mientras se cumplan las condiciones aquí establecidas.
+
+7. RESCISIÓN
+   - Groupymes Comm World SL se reserva el derecho de rescindir la presente licencia si el usuario incumple cualquiera de las condiciones establecidas.
+
+8. LEY APLICABLE Y JURISDICCIÓN
+   - Cualquier controversia se regirá por las leyes de España. 
+
+Si tienes dudas o deseas solicitar permisos de uso adicionales, contacta con info@groupymes.es.
